@@ -1,6 +1,3 @@
-Here’s a more polished and interactive version of your `README.md` file, formatted with sections, badges, and clear instructions:
-
-```markdown
 # 🍽️ Dine-Inn
 
 Welcome to **Dine-Inn**, a modern and sleek landing page for restaurant businesses. This project is designed with a responsive layout, stylish media, and custom fonts to create an engaging user experience.
