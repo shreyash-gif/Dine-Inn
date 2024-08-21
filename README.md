@@ -53,7 +53,6 @@ Follow these steps to get the project running locally:
    Open `index.html` in your preferred browser to view the site.
 
 ## 📷 Videos and Screenshots 
-
 https://github.com/user-attachments/assets/52d52d15-7333-42dc-88d9-c4be732cd8ee
 *Landing Page Preview*
 
