@@ -55,6 +55,8 @@ Follow these steps to get the project running locally:
 ## 📷 Videos and Screenshots 
 https://github.com/user-attachments/assets/52d52d15-7333-42dc-88d9-c4be732cd8ee
 *Landing Page Preview*
+![Screenshot 2024-08-21 180915](https://github.com/user-attachments/assets/e3a175ad-21d8-4c1b-8a89-2bd4860eea31)
+*Items Listing*
 
 ## 🛠️ Technologies Used
 
