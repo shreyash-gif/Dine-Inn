@@ -52,9 +52,9 @@ Follow these steps to get the project running locally:
 3. **Open the Landing Page:**
    Open `index.html` in your preferred browser to view the site.
 
-## 📷 Screenshots
+## 📷 Videos and Screenshots 
 
-
+https://github.com/user-attachments/assets/52d52d15-7333-42dc-88d9-c4be732cd8ee
 *Landing Page Preview*
 
 ## 🛠️ Technologies Used
