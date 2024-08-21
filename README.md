@@ -53,11 +53,12 @@ Follow these steps to get the project running locally:
    Open `index.html` in your preferred browser to view the site.
 
 ## 📷 Videos and Screenshots 
-https://github.com/user-attachments/assets/52d52d15-7333-42dc-88d9-c4be732cd8ee
 *Landing Page Preview*
-![Screenshot 2024-08-21 180915](https://github.com/user-attachments/assets/e3a175ad-21d8-4c1b-8a89-2bd4860eea31)
+https://github.com/user-attachments/assets/52d52d15-7333-42dc-88d9-c4be732cd8ee
+*Our Food Services*
+![Screenshot 2024-08-21 181232](https://github.com/user-attachments/assets/04ad2a76-e709-4d41-a128-a12d5c2e3da4)
 *Items Listing*
-
+![Screenshot 2024-08-21 180915](https://github.com/user-attachments/assets/e3a175ad-21d8-4c1b-8a89-2bd4860eea31)
 ## 🛠️ Technologies Used
 
 - **HTML5** for the structure.
